@@ -11,4 +11,5 @@ public class UserDetails {
     private String name;
     private String record;
     private String fighterId;
+    private String message;
 }
